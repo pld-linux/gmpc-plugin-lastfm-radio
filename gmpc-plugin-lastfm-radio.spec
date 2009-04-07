@@ -2,7 +2,7 @@
 Summary:	Last.fm radio plugin for Gnome Music Player Client
 Name:		gmpc-plugin-lastfm-radio
 Version:	0.17.0
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Applications/Sound
 Source0:	http://dl.sourceforge.net/musicpd/%{source_name}-%{version}.tar.gz
